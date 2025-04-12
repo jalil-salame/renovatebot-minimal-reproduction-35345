@@ -1,17 +1,15 @@
-# minimal-reproduction-template
+# Minimal reproduction for renovatebot/renovate#35345
 
 First, read the [Renovate minimal reproduction instructions](https://github.com/renovatebot/renovate/blob/main/docs/development/minimal-reproductions.md).
 
-Then replace the current `h1` with the Renovate Issue/Discussion number.
-
 ## Current behavior
 
-Explain the current behavior here.
+Renovate fails to gather the dependencies for the `nix` manager if one of the flake inputs is of type `file`
 
 ## Expected behavior
 
-Explain the expected behavior here.
+Renovate should ignore flake inputs of unknown types instead of failing and ignoring updates for all inputs.
 
 ## Link to the Renovate issue or Discussion
 
-Put your link to the Renovate issue or Discussion here.
+Discussion: renovatebot/renovate#35345
