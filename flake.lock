@@ -2,11 +2,11 @@
   "nodes": {
     "nixpkgs": {
       "locked": {
-        "lastModified": 1744442362,
-        "narHash": "sha256-i47t4DRIZgwBZw2Osbrp1OJhhO1k/n+QzRx+TrmfE9Y=",
+        "lastModified": 1771147098,
+        "narHash": "sha256-jpfPdBjKO232s5NueoNEvvVzpndiUzPLNYcH4/Ov0gY=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "2349f9de17183971db12ae9e0123dab132023bd7",
+        "rev": "e3cb16bccd9facebae3ba29c6a76a4cc1b73462a",
         "type": "github"
       },
       "original": {
@@ -19,7 +19,7 @@
     "pubkeys": {
       "flake": false,
       "locked": {
-        "narHash": "sha256-06aaFKbY4iR5KlIzTIgaj6WpVyEADAuGoybvNzvexgM=",
+        "narHash": "sha256-oWsuRqq8uyBaZQ9SNEciwGvK55EcUjzqTI+mDzkiR88=",
         "type": "file",
         "url": "https://github.com/jalil-salame.keys"
       },
